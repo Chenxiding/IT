@@ -1,0 +1,2 @@
+这是一个通过Bootstrap框架所写的一个相应式网站，原网页也是响应式布局，所以可以算是完全copy该网页所做。<br/>
+This is a corresponding website written through the Bootstrap framework. The original web page is also a responsive layout, so it can be regarded as a complete copy of the web page, in which the cascade style is less.
